@@ -1,2 +1,3 @@
 ithis file contains sql quries
 sql server 4.0
+
